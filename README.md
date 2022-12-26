@@ -6,18 +6,18 @@ Diabetes Mellitus is a chronic metabolic disease that causes an increasing numbe
 
 Required Package
 ------------
-Python3 (tested 3.9.12)
-numpy (tested 1.23.1)
-pandas (tested 1.4.3)
-jupyter (tested 1.0.0)
-scikit-learn (tested 1.1.1)
-rdkit(tested 2022.3.4)
+Python3 (tested 3.9.12)  
+numpy (tested 1.23.1)  
+pandas (tested 1.4.3)  
+jupyter (tested 1.0.0)  
+scikit-learn (tested 1.1.1)  
+rdkit(tested 2022.3.4)  
 
 
 Usage
 --------------------------
-#Enter the name of the compound as a txt file
-Train and load model by using:
-'XGBoost Model.ipynb'
-The possibility of predicting compounds for the treatment of diabetes by using:
-'predict.ipynb'
+#Enter the name of the compound as a txt file  
+Train and load model by using:  
+'XGBoost Model.ipynb'  
+The possibility of predicting compounds for the treatment of diabetes by using:  
+'predict.ipynb'  
